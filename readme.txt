@@ -4,7 +4,7 @@ Donate link: http://www.iamport.kr
 Tags: payment, payment-button, iamport, woocommerce, button, pg, gateway
 Requires at least: 3.0.1
 Tested up to: 5.3.2
-Stable tag: 1.1.18
+Stable tag: 1.1.19
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ https://www.facebook.com/iamportservice
 
 
 == Changelog ==
+= 1.1.19 =
+* 내부 개발용 : SVN 자동배포 적용
+
 = 1.1.18 =
 * 다음 주소 API 변경된 스펙 적용 : version 쿼리 파라미터 제거
 
