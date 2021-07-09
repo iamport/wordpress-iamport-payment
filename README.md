@@ -40,7 +40,7 @@ http://www.iamport.kr 에서 아임포트 서비스에 대한 보다 상세한 �
 
 ![screenshot_3](https://github.com/iamport/wordpress-iamport-payment/blob/main/assets/screenshot-3.png)
 
-6. 워드프레스 관리자페이지 좌측에 생성된 "아임포트 결제설정" 페이지에서 해당 정보를 저장합니다.
+6. 관리자 페이지에서 결제 정보를 조회하고 관리하실 수도 있습니다.
 
 ## Action Hook
 
