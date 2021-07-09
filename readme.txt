@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 shortcode를 활용해 아임포트 결제버튼을 어디서든 생성. 신용카드/실시간이체/가상계좌/휴대폰소액결제 가능.
 
 == Description ==
+Github 링크 : https://github.com/iamport/wordpress-iamport-payment
 
 아임포트는 국내 PG서비스들을 표준화하고 있는 결제 서비스입니다. 아임포트 하나면 국내 여러 PG사들의 결제 기능을 표준화된 동일한 방식으로 사용할 수 있게 됩니다. <br>
 이 플러그인은 아임포트 서비스를 어디서든 쉽게 이용할 수 있도록 "결제버튼"을 생성해주는 shortcode를 포함하고 있습니다.<br>
