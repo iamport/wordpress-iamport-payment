@@ -30,15 +30,15 @@ http://www.iamport.kr 에서 아임포트 서비스에 대한 보다 상세한 �
 2. unzip iamport.zip으로 압축 파일을 해제하면 iamport폴더가 생성됩니다.
 3. 워드프레스 관리자페이지에서 'Plugins'메뉴를 통해 "아임포트 결제버튼 생성 플러그인" 플러그인을 활성화합니다.
    
-![screenshot_1](https://github.com/iamport/wordpress-iamport-pamyent/blob/main/assets/screenshot-1.png)
+![screenshot_1](https://github.com/iamport/wordpress-iamport-payment/blob/main/assets/screenshot-1.png)
    
 4. https://admin.iamport.kr 에서 관리자 회원가입 후 시스템설정 페이지의 "가맹점 식별코드", "REST API키", "REST API secret"를 확인합니다.
    
-![screenshot_2](https://github.com/iamport/wordpress-iamport-pamyent/blob/main/assets/screenshot-2.png)
+![screenshot_2](https://github.com/iamport/wordpress-iamport-payment/blob/main/assets/screenshot-2.png)
 
 5. "아임포트 결제설정" 페이지에서 "가맹점 식별코드", "REST API키", "REST API secret" 정보를 저장합니다.
 
-![screenshot_3](https://github.com/iamport/wordpress-iamport-pamyent/blob/main/assets/screenshot-3.png)
+![screenshot_3](https://github.com/iamport/wordpress-iamport-payment/blob/main/assets/screenshot-3.png)
 
 6. 워드프레스 관리자페이지 좌측에 생성된 "아임포트 결제설정" 페이지에서 해당 정보를 저장합니다.
 
