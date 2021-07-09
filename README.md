@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.iamport.kr"><img src="https://ps.w.org/iamport-payment/assets/banner-772x250.png" alt="Iamport Payment"></a></p>
+<p align="center"><a href="https://www.iamport.kr"><img src="https://ps.w.org/iamport-payment/assets/banner-772x250.png" width="100%" alt="Iamport Payment"></a></p>
 
 > shortcode를 활용해 아임포트 결제버튼을 어디서든 생성. 신용카드/실시간이체/가상계좌/휴대폰소액결제 가능.
 
