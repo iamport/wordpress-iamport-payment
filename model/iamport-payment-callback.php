@@ -28,6 +28,7 @@ if ( !class_exists('IamportPaymentCallback') ) {
 
     public function handle_callback()
     {
+      global $wp;
       if ( ! empty( $_GET[self::QUERY_CALLBACK] ) ) {
         $wp->query_vars[self::QUERY_CALLBACK] = $_GET[self::QUERY_CALLBACK];
       }
