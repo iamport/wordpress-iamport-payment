@@ -69,4 +69,4 @@ https://docs.iamport.kr
 ### 페이스북
 https://www.facebook.com/iamportservice
 ### 고객센터
-1670-5176 / cs@iamport.kr
+cs@iamport.kr
