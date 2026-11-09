@@ -1,5 +1,13 @@
 <p align="center"><a href="https://www.iamport.kr"><img src="https://ps.w.org/iamport-payment/assets/banner-772x250.png" width="100%" alt="Iamport Payment"></a></p>
 
+> [!WARNING]
+> **이 저장소는 더 이상 유지보수되지 않습니다 (Deprecated).**
+>
+> 현재 포트원이 지원하는 워드프레스 플러그인은 우커머스 결제 플러그인입니다. 아래 문서를 참고해 주세요.
+>
+> - [포트원 우커머스 결제 플러그인 (WordPress.org)](https://wordpress.org/plugins/iamport-for-woocommerce/)
+> - [우커머스 플러그인 연동 가이드](https://developers.portone.io/opi/ko/extra/plugins/wordpress/woocommerce/readme?v=v1)
+
 > shortcode를 활용해 아임포트 결제버튼을 어디서든 생성. 신용카드/실시간이체/가상계좌/휴대폰소액결제 가능.
 
 [워드프레스 플러그인 링크](https://wordpress.org/plugins/iamport-payment/)
